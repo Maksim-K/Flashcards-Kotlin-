@@ -747,6 +747,12 @@ files:
     \   \"London\",\n                \"Abuja\",\n                \"Berlin\"\n    \
     \    );\n    }\n    \n}\n"
   learner_created: false
+- name: fridayThe13th
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/7492#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 28 Mar 2023 20:07:30 UTC"
 record: -1

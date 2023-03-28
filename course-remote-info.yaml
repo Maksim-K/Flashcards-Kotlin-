@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/263287/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Mon, 27 Mar 2023 20:22:23 UTC"
+update_date: "Tue, 28 Mar 2023 15:20:14 UTC"
 stages:
 - id: 457
   step: 7486
@@ -25,7 +25,7 @@ stages:
   is_completed: true
 - id: 463
   step: 7492
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Introduction to Kotlin
