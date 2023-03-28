@@ -1,0 +1,42 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+cards.txt
+3 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+3
+Print the definition of "two":
+two
+Wrong. The right answer is "2".
+Print the definition of "two":
+2
+Correct!
+Print the definition of "3":
+one
+Wrong. The right answer is "three", but your definition is correct for "1".
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "3":
+three
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+3
+Print the definition of "1":
+o
+Wrong. The right answer is "one".
+Print the definition of "two":
+2
+Correct!
+Print the definition of "3":
+three
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+log.txt
